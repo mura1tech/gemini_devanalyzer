@@ -47,7 +47,7 @@ npm install
 npm run dev
 ```
 
-## 4. 実装ポイント
+## 実装ポイント
 
 ### 1. 構造化出力 (Structured Output)
 Gemini 2.5 Flash の response_schema 機能を活用し、AIの出力を以下のJSON形式に固定しています。これにより、フロントエンドでの安定したデータ表示を可能にしています。
